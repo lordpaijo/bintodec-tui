@@ -1,4 +1,4 @@
-# BINTODEC-TUI
+# BINTODEC-TUI (Gue bakal remake ke TS😎)
 
 A simple 10-bit binary to decimal converter TUI app. Built using Rust with the libraries Ratatui and Crossterm, and yes, it was a forked version of the counting app from the [ratatui book](https://ratatui.rs/tutorials/counter-app/).
 
