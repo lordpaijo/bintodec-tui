@@ -1,0 +1,13 @@
+[package]
+name = "bintodec-tui"
+version = "0.1.0"
+edition = "2024"
+authors = ["LordPaijo (Iyan) <iyanmaumakan.56@gmail.com>"]
+description = "A simple 10-bit binary to decimal converter tui app."
+license = "MIT"
+repository = "https://github.com/lordpaijo/bintodec-tui"
+documentation = "https://docs.rs/bintodec-tui"
+
+[dependencies]
+ratatui = "0.29.0"
+crossterm = "0.28.1"
