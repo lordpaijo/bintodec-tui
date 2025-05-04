@@ -2,7 +2,7 @@
 
 A simple 10-bit binary to decimal converter tui app. Built using Rust with the libraries Ratatui and Crossterm, and yes, was a forked version of the counting app from the [ratatui book](https://ratatui.rs/tutorials/counter-app/).
 
-![showcase video](https://github.com/paijo/counting-paijo/blob/master/showcase.mp4)
+![https://github.com/paijo/counting-paijo/blob/master/showcase.mp4](https://github.com/lordpaijo/bintodec-tui/blob/master/showcase.mp4)
 
 ## Dependencies
 
