@@ -4,6 +4,10 @@ A simple 10-bit binary to decimal converter tui app. Built using Rust with the l
 
 ![showcase-video](https://github.com/lordpaijo/bintodec-tui/blob/master/showcase.mp4)
 
+<video width="100%" controls>
+  <source src="https://github.com/lordpaijo/bintodec-tui/blob/master/showcase.mp4" type="video/mp4">
+</video> 
+
 ## Dependencies
 
 - Rust
