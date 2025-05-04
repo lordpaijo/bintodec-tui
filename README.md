@@ -1,6 +1,6 @@
 # BINTODEC-TUI
 
-A simple 10-bit binary to decimal converter tui app. Built using Rust with the libraries Ratatui and Crossterm, and yes, was a forked version of the counting app from the [ratatui book](https://ratatui.rs/tutorials/counter-app/).
+A simple 10-bit binary to decimal converter TUI app. Built using Rust with the libraries Ratatui and Crossterm, and yes, it was a forked version of the counting app from the [ratatui book](https://ratatui.rs/tutorials/counter-app/).
 
 ![showcase-video](https://github.com/lordpaijo/bintodec-tui/raw/refs/heads/master/showcase.mp4)
 
@@ -32,4 +32,4 @@ If you've successfully installed the binary, you can run it by typing the follow
 bintodec-tui
 ```
 
-If you encounter any issues or have any questions, feel free to open an issue [here](https://github.com/paijo/bintodec-tui).
+If you encounter any issues or have any questions, feel free to open an issue [here](https://github.com/lordpaijo/bintodec-tui).
